@@ -1,2 +1,2 @@
 # ParkingSystem
- This is a smart system for optimising parking.
+ This is a smart system for optimised parking.
