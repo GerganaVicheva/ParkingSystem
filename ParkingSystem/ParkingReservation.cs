@@ -124,7 +124,7 @@ namespace ParkingSystem
             }
             else if (Type == "Advance")
             {
-                if (DateTime.Now.Subtract(StartTime).TotalDays < 7)
+                if (StartTime.Subtract(DateTime.Now).TotalDays < 7)
                 {
                     throw new ArgumentException("To book in advance there has to be a week before the reservation.");
                 }

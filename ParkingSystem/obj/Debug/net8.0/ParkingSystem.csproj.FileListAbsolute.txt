@@ -12,3 +12,4 @@ D:\Запазена информация\d\10 клас\Производстве�
 D:\Запазена информация\d\10 клас\Производствена практика\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.pdb
 D:\Запазена информация\d\10 клас\Производствена практика\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.genruntimeconfig.cache
 D:\Запазена информация\d\10 клас\Производствена практика\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ref\ParkingSystem.dll
+D:\Запазена информация\d\10 клас\Производствена практика\ParkingSystem\ParkingSystem\obj\Debug\net8.0\ParkingSystem.sourcelink.json

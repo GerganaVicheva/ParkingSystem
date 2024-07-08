@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|d:\\\u0437\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parkingsystem\\parkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|d:\\\u0437\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parkingsystem\\parkingsystem\\parkingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\parkingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|d:\\\u0437\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parkingsystem\\parkingsystem\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|d:\\\u0437\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parkingsystem\\parkingsystem\\parkingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\parkingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|d:\\\u0437\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\parkingsystem\\parkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850E33D-4E96-4A52-9728-7E428DA03500}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ParkingReservation.cs",
               "DocumentMoniker": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\ParkingReservation.cs",
               "RelativeDocumentMoniker": "ParkingSystem\\ParkingReservation.cs",
               "ToolTip": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\ParkingReservation.cs",
               "RelativeToolTip": "ParkingSystem\\ParkingReservation.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAgwIsAAAAAAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAYwH4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T15:57:39.191Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "ParkingSystem\\ParkingSpot.cs",
               "ToolTip": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\ParkingSpot.cs",
               "RelativeToolTip": "ParkingSystem\\ParkingSpot.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T15:47:44.7Z",
               "EditorCaption": ""
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "ParkingSystem\\ParkingLot.cs",
               "ToolTip": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\ParkingLot.cs",
               "RelativeToolTip": "ParkingSystem\\ParkingLot.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowGMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T16:14:17.835Z",
               "EditorCaption": ""
@@ -79,23 +79,22 @@
               "RelativeDocumentMoniker": "ParkingSystem\\Actions.cs",
               "ToolTip": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\Actions.cs",
               "RelativeToolTip": "ParkingSystem\\Actions.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwIkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T07:43:28.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\Program.cs",
               "RelativeDocumentMoniker": "ParkingSystem\\Program.cs",
               "ToolTip": "D:\\\u0417\u0430\u043F\u0430\u0437\u0435\u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F\\d\\10 \u043A\u043B\u0430\u0441\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u0430 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\ParkingSystem\\ParkingSystem\\Program.cs",
               "RelativeToolTip": "ParkingSystem\\Program.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwEwAAAA4AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T07:30:16.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T07:30:16.151Z"
             }
           ]
         }
