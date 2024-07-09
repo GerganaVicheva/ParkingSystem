@@ -38,17 +38,17 @@ The program has 5 main classes:
 It contains the main properties that each parking space has:
 ID/name (e.g. A1), check whether the spot is occupied or not, ID (registration number) of the vehicle occupying the spot, time until which the spot is reserved.
 
-2. ParkingReservation:
+3. ParkingReservation:
 It contains the main properties that each reservation has:
 ID/name of the reserved seat, ID (registration number) of the vehicle using the spot, period of use of the spot, type of reservation.
 Here is the encapsulation of each property the class has and a function which validates whether the input meets the conditions of the reservation type.
 
-3. Parking Lot:
+4. Parking Lot:
 Creates a parking lot with a list of spaces and a list of reservations.
 Here are the main activities the app does - functions for booking and realeasing a spot, as well as a list of reservations depending on the time period and a function that sums all the earnings.
 
-4. Actions:
+5. Actions:
 There are 2 base methods in this class - HandleUserActions and HandleAdminActions. They call out the other functions in the class - BookSpotInterface, ReleaseSpotInterface, ViewReservations, ViewEarnings. All of the functions represent what the user will see.
 
-5. Program: 
+6. Program: 
 Communicates with the user and follows the given commands.
