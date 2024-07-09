@@ -60,7 +60,7 @@ namespace ParkingSystem
 
             if (type == "OnDemand")
             {
-                Console.WriteLine("Enter spot ID:");
+                Console.WriteLine($"Enter spot ID (from A1 to A{parkingLot.Spots.Count}):");
                 spotId = Console.ReadLine();
 
                 startTime = DateTime.Now.AddMinutes(10);
@@ -68,7 +68,7 @@ namespace ParkingSystem
             }
             else if (type == "Subscription")
             {
-                Console.WriteLine("Enter spot ID:");
+                Console.WriteLine($"Enter spot ID (from A1 to A{parkingLot.Spots.Count}):");
                 spotId = Console.ReadLine();
 
                 startTime = DateTime.Now.AddMinutes(10);
@@ -76,7 +76,7 @@ namespace ParkingSystem
             }
             else
             {
-                Console.WriteLine("Enter spot ID:");
+                Console.WriteLine($"Enter spot ID (from A1 to A{parkingLot.Spots.Count}):");
                 spotId = Console.ReadLine();
 
                 Console.WriteLine("Enter start time (yyyy-mm-dd hh:mm):");
