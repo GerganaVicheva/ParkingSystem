@@ -50,5 +50,5 @@ Here are the main activities the app does - functions for booking and realeasing
 4. Actions:
 There are 2 base methods in this class - HandleUserActions and HandleAdminActions. They call out the other functions in the class - BookSpotInterface, ReleaseSpotInterface, ViewReservations, ViewEarnings. All of the functions represent what the user will see.
 
-5. Program
+5. Program: 
 Communicates with the user and follows the given commands.
