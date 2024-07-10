@@ -36,15 +36,29 @@
 Съдържа основните характеристики, които има всяко паркомясто:
 ID/име (напр. A1), проверка дали мястото е заето или не, ID (регистрационен номер) на превозното средство, което заема мястото, време, до което мястото е запазено.
 
+![ParkingSpot](https://github.com/GerganaVicheva/ParkingSystem/assets/173889883/0d104f84-7813-47e9-8151-0cc71001337e) 
+
 2. ParkingReservation:
 Съдържа основните свойства, които има всяка резервация:
 ID/име на запазеното място, ID (регистрационен номер) на автомобила, използващ мястото, период на използване на мястото, тип резервация. Тук е капсулацията на всяко свойство, което класът има, и метод, който проверява дали входът отговаря на условията на типа резервация.
 
+![ParkingReservation](https://github.com/GerganaVicheva/ParkingSystem/assets/173889883/14aaa4dc-e53f-4ed4-b1a4-7c8cc075fd50)
+
+
 3. ParkingLot:
 Създава паркинг със списък от места и списък с резервации. Тук са сновните дейности, които приложението извършва - методи за запазване и освобождаване на място, метод, който сумира всички приходи, както и списък с резервации в зависимост от периода.
+
+![ParkingLot](https://github.com/GerganaVicheva/ParkingSystem/assets/173889883/36316cad-5f65-46f8-be3c-2bf1ef297de0)
+
 
 4. Actions:
 В този клас има 2 основни метода - HandleUserActions и HandleAdminActions. Те извикват другите функции в класа - BookSpotInterface, ReleaseSpotInterface, ViewReservations, ViewEarnings. Всички функции представляват това, което потребителят ще види.
 
+![Actions](https://github.com/GerganaVicheva/ParkingSystem/assets/173889883/cc40576e-289b-41c5-b93b-456b1d86282b)
+
+
 5. Program: 
 Комуникира с потребителя и изпълнява зададените от него команди.
+
+![Main](https://github.com/GerganaVicheva/ParkingSystem/assets/173889883/bf701e68-093b-47de-8a6f-a4f5b10d3112)
+
