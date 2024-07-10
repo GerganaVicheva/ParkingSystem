@@ -62,3 +62,11 @@ ID/име на запазеното място, ID (регистрационен
 
 ![Main](https://github.com/GerganaVicheva/ParkingSystem/assets/173889883/bf701e68-093b-47de-8a6f-a4f5b10d3112)
 
+### Интересни технологии, използвани в проекта
+- клас DateTime
+- клас TimeSpan
+- Nullable value types T?
+- Тернарен оператор ?:
+- Ламбда изрази
+- StringComparison Enum
+- IQueryable Interface
