@@ -76,6 +76,8 @@ namespace ParkingSystem
 
             Console.WriteLine("\nFinal Parking Spots:");
             parkingLot.ShowSpots();
-        }
+            Console.WriteLine();
+            Console.WriteLine("Exiting the Parking System. Goodbye! Thank you for using our resources!");
+		}
     }
 }
